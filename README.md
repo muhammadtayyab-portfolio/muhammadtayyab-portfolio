@@ -41,5 +41,4 @@ I am actively seeking **Junior Python Developer**, **Python Automation**, or **I
 
 * **LinkedIn:** [linkedin.com/in/muhammad-tayyab-python-uae](https://www.linkedin.com/in/muhammad-tayyab-python-uae)
 * **Email:** [tayyabasghar48@gmail.com](mailto:tayyabasghar48@gmail.com)
-* **Portfolio:** [muhammad-tayyab-dev-vssts9f.gamma.site](https://muhammad-tayyab-dev-vssts9f.gamma.site/)
 * **Contact:** +971 56 968 4778
