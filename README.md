@@ -40,5 +40,5 @@ I am actively seeking **Junior Python Developer**, **Python Automation**, or **I
 ---
 
 ### 📊 My GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=muhammadtayyab-portfolio&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtayyab-portfolio&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadtayyab-portfolio&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtayyab-portfolio&layout=compact&theme=radical&cache_seconds=1800)
