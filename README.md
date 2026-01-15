@@ -30,15 +30,15 @@ I am a passionate Python Developer focused on building efficient automation scri
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadtayyab-portfolio&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtayyab-portfolio&layout=compact&theme=radical)
-
----
-
 ### 🤝 Let's Connect!
 I am actively seeking **Junior Python Developer**, **Python Automation**, or **Internship** roles in Dubai, Sharjah, or Remote (UAE).
 
 * **LinkedIn:** [linkedin.com/in/muhammad-tayyab-python-uae](https://www.linkedin.com/in/muhammad-tayyab-python-uae)
 * **Email:** [tayyabasghar48@gmail.com](mailto:tayyabasghar48@gmail.com)
 * **Contact:** +971 56 968 4778
+
+---
+
+### 📊 My GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=muhammadtayyab-portfolio&show_icons=true&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtayyab-portfolio&layout=compact&theme=radical)
