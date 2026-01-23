@@ -9,7 +9,7 @@ I am a passionate Python Developer focused on building efficient automation scri
 ### 🚀 Quick Highlights
 * **Problem Solver:** Solved **105+ Python problems** to sharpen logic and data structure skills.
 * **AI & Data Science Fellow:** Currently a Data Science & AI Fellow at **MultiOmics Global Research Community** (Sep 2025 – Sep 2026).
-* **Project Experience:** Developed various console-based management systems and real-world simulations focusing on clean code.
+* **Project Experience:** Developed various console-based Python projects and real-world simulations focusing on clean code.
 * **Education:** Pursuing a Bachelor of Science in **Information Technology** at Superior University.
 
 ---
@@ -22,10 +22,12 @@ I am a passionate Python Developer focused on building efficient automation scri
 
 ---
 
-### 📁 Featured Projects
-* **Management Systems:** Built Library, Airport, and Gym management consoles featuring full **CRUD operations**, structured menus, and user input validation.
-* **Real-World Simulations:** Designed a **Coffee Machine Simulator** modeling complex systems using classes and structured logic.
-* **Interactive Games:** Developed games like **Snake Game** and **Turtle Race** using event handling, collision detection, and loops.
+### 📁 Featured Projects (Python)
+* **Management Systems:** Built Library and Airport management consoles in Python featuring full **CRUD operations**, structured menus, and user input validation.  
+  *(Note: Gym Management project is implemented in C++.)*
+* **Real-World Simulations:** Designed a **Coffee Machine Simulator** modeling complex systems using Python classes and structured logic.
+* **Interactive Games:** Developed games like **Snake Game**, **Turtle Race**, **Ping Pong**, and **Turtle Crossing** using event handling, collision detection, and loops.
+* **Quiz App:** Built a console-based quiz application with multiple-choice questions, score tracking, and input validation.
 * **Data Persistence:** Implemented file handling to simulate real-world data storage and retrieval behavior.
 
 ---
