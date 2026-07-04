@@ -16,8 +16,8 @@ Python Developer & Data Analyst based in Sharjah, UAE — building real-world ML
 
 - 🎓 BSc in Information Technology — **Superior University, Lahore** *(4th Semester)*
 - 🧪 Data Science & AI Fellow — **MultiOmics Global Research Community** (2025–2026)
-- 💼 Data Analyst Intern — **Teyzix Core** *(June 2026 – Present)*
-- 📍 Based in **Sharjah, UAE** — immediately available, no visa sponsorship cost
+- 💼 Data Analyst Intern — **Teyzix Core** *(June 2026, completed both assigned tasks)*
+- 📍 Based in **Sharjah, UAE** — UAE resident on family visa, no sponsorship cost, immediately available
 - 🎯 Actively seeking **Junior Data Analyst / Python Developer** roles in UAE
 
 ---
@@ -26,21 +26,38 @@ Python Developer & Data Analyst based in Sharjah, UAE — building real-world ML
 
 ```
 Languages         Python · SQL · Basic HTML/CSS/JS
-Data Analysis     Pandas · NumPy · EDA · Feature Engineering
+Data Analysis     Pandas · NumPy · EDA · RFM Segmentation · Feature Engineering
 Machine Learning  Scikit-learn · Logistic Regression · Random Forest · SHAP
-Visualization     Matplotlib · Seaborn · Streamlit
+Visualization     Matplotlib · Seaborn · Streamlit · Plotly
 GUI               Tkinter (multi-page OOP, tabbed apps, BaseTab architecture)
 Web Scraping      BeautifulSoup · Selenium · Playwright
 APIs              REST APIs · Google Gemini AI · JSON
 Automation        File management · Data processing · Email automation · CSV/Excel
 Tools             Git & GitHub · VS Code · Jupyter Notebook
+In Progress       Power BI
 ```
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 📊 Customer Churn Prediction & Behavior Analytics *(Teyzix Core Internship)*
+### 📦 E-Commerce & Logistics Operations Analytics Platform
+> Independent case study solving 34 real business questions across messy, multi-format data (CSV + JSON + XML)
+
+- Combined **orders.csv, couriers.json, and deliveries.xml** into a single unified analysis pipeline
+- Solved a self-directed **34-question business case study** across 8 sections (A–H): data cleaning, merging, KPI building, delivery performance, courier analysis, and business recommendations
+- Heavy use of **pandas merge/join, pivot tables, datetime handling, and multi-format parsing**
+- Built entirely independently to simulate a real messy-data business analytics scenario
+
+🔗 [GitHub Repo](https://github.com/muhammadtayyab-portfolio/ecommerce-logistics-analytics)
+
+**Skills:** Python · Pandas · NumPy · JSON/XML Parsing · Data Wrangling · Business Analytics
+
+---
+
+### 📊 Teyzix Core Internship — Data Analytics (2 Projects)
+
+**Task 1 — Telco Customer Churn Analysis**
 > End-to-end ML pipeline analyzing 7,043 telecom customers — Live on Streamlit Cloud
 
 - Full EDA, Data Cleaning & Feature Engineering pipeline
@@ -50,9 +67,16 @@ Tools             Git & GitHub · VS Code · Jupyter Notebook
 - Automated **Weekly Churn Report Pipeline** with Email delivery
 - Deployed **Live Streamlit Dashboard** on Streamlit Cloud
 
-🔗 [Live Dashboard](https://teyzix-internship-data-analytics-muhammadtayyab.streamlit.app/) · [GitHub Repo](https://github.com/muhammadtayyab-portfolio/Teyzix-Internship-Data-Analytics)
+**Task 2 — UAE Electronics Store Sales & Customer Behavior Analysis**
+> Sales analytics on a 1,200-record UAE electronics retail dataset
 
-**Skills:** Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · SHAP · Streamlit
+- **RFM Segmentation** (Recency, Frequency, Monetary) for customer behavior analysis
+- Interactive **Streamlit + Plotly** dashboard for sales & customer insights
+- Full data cleaning and business-insight generation pipeline
+
+🔗 [GitHub Repo](https://github.com/muhammadtayyab-portfolio/Teyzix-Internship-Data-Analytics) *(Task-1 & Task-2 subfolders)*
+
+**Skills:** Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · SHAP · Streamlit · Plotly
 
 ---
 
@@ -101,6 +125,13 @@ Built using **OOP BaseTab inheritance architecture** — all 11 tools share a cl
 | 📰 News Aggregator | NewsAPI |
 | 🎬 Movie App | OMDB API |
 | 🤖 AI Chatbot | Google Gemini AI |
+
+---
+
+## 📜 Certifications
+
+- **Python Programming (AI)** — IDEO College of Technology, Grade A *(Feb 2026)*
+- **Introduction to SQL** — SoloLearn *(May 2025)*
 
 ---
 
